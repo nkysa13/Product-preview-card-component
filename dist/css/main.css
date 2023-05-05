@@ -76,7 +76,7 @@ p{
         display: flex;
         justify-items: center;
         flex-direction: column;
-
+        justify-content: center;
     }
     main{
         flex-direction: column;
